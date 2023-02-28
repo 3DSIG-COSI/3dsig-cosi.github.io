@@ -1,6 +1,5 @@
 # 3DSIG: Structural Bioinformatics and Computational Biophysics
- ------------------------------------------------------------
- ------------------------------------------------------------
+
  
 The 3D Special Interest Group (SIG) COSI focuses on all aspects of molecular biology that can be informed by a computational perspective. In broad terms this includes structural bioinformatics approaches dealing with the computational analysis of biological processes at the molecular level from a structural perspective as well as the simulation of biological processes from a molecular biophysics’ perspective. Themes relevant for 3DSIG include, but are not restricted to: Prediction of Biomolecular structure and function, Dynamics of biomolecules and its role in biomolecular function, molecular bioisosterism (detection of similarities) and its role in biological function, biomolecular docking, drug design, 3D quantitative structure activity relationships (3D-QSAR), structurally informed cell-biology, etc. 
 
@@ -9,32 +8,31 @@ The 3D Special Interest Group (SIG) COSI focuses on all aspects of molecular bio
 Here a link to join the [slack channel](https://join.slack.com/t/3dsig-cosi/shared_invite/zt-1q2z06kom-Ej9pSPoesBDhnIhz1lH5wA).
  
 
-# COSI representative to committee
+## COSI representative to committee
 
 Rafael Najmanovich, University of Montreal
  
-COSI alternate representative to committee
-------------------------------------------
+## COSI alternate representative to committee
+
 Douglas Pires, University of Melbourne
  
-COSI proceedings liaison
-------------------------
+## COSI proceedings liaison
+
 Douglas Pires, University of Melbourne
 
-COSI track chair(s)
--------------------
+## COSI track chair(s)
+
 Rafael Najmanovich, University of Montreal 
 
 Douglas Pires, University of Melbourne 
 
-ISCBacademy COSI Program Coordinator
-------------------------------------
+## ISCBacademy COSI Program Coordinator
+
 Lam Su Datt, Universiti Kebangsaan Malaysia
 
 Stephen Yi, The university of Texas at Austin
  
-Leadership Structure: 
----------------------
+## Leadership Structure:
 
 |Name|Institution|Country|Position|
 |Rafael Najmanovich|University of Montreal|Canada|Co-Chair|
