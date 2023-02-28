@@ -27,14 +27,13 @@ Stephen Yi, The university of Texas at Austin
 Leadership Structure: 
 
 |Name|Institution|Position|Country|Position|
-
 |Rafael Najmanovich|University of Montreal|Canada|Co-Chair|
 |Douglas Pires|University of Melbourne|AU|Co-Chair|
 |Alexey Porollo|Cincinnati Children's Hospital Medical Center|US|Track Editor|
 |Anna Marabotti|University of Salerno|Italy|Track Editor|
 |Ray Arjun|Indraprastha Institute of Information Technology (IIIT)|India|Track Editor
 |Javier Alfaro|International Center for Cancer Vaccine Science (University of Gdansk)|Poland|Track Editor|
-|Lam Su Datt|Universiti Kebangsaan|Malaysia|Malaysia|Track Editor and Webinar Coordinator|
+|Lam Su Datt|Universiti Kebangsaan|Malaysia|Track Editor and Webinar Coordinator|
 |Stephen Yi|The University of Texas at Austin|US|Webinar Coordinator|
 |Daniel Buchan|UCL|UK|Track Editor and Training Coordinator|
 |Rafaela Ferreira|Universidade Federal de Minas Gerais|Brazil|Track Editor|
