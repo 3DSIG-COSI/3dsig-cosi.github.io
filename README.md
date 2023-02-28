@@ -4,9 +4,9 @@
  
 The 3D Special Interest Group (SIG) COSI focuses on all aspects of molecular biology that can be informed by a computational perspective. In broad terms this includes structural bioinformatics approaches dealing with the computational analysis of biological processes at the molecular level from a structural perspective as well as the simulation of biological processes from a molecular biophysics’ perspective. Themes relevant for 3DSIG include, but are not restricted to: Prediction of Biomolecular structure and function, Dynamics of biomolecules and its role in biomolecular function, molecular bioisosterism (detection of similarities) and its role in biological function, biomolecular docking, drug design, 3D quantitative structure activity relationships (3D-QSAR), structurally informed cell-biology, etc. 
 
-3DSIG online activities are based on the GitHub platform as well as a slack channel (3dsig-cosi.slack.com). 
+3DSIG online activities are based on the GitHub platform as well as a [slack channel](3dsig-cosi.slack.com). 
 
-Here a link to join the slack channel: https://join.slack.com/t/3dsig-cosi/shared_invite/zt-1q2z06kom-Ej9pSPoesBDhnIhz1lH5wA
+Here a link to join the [slack channel](https://join.slack.com/t/3dsig-cosi/shared_invite/zt-1q2z06kom-Ej9pSPoesBDhnIhz1lH5wA).
  
 
 COSI representative to committee
