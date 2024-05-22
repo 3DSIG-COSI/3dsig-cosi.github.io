@@ -10,20 +10,34 @@ We're planning hackatons, as well as to liason with local structural bioinformat
 ## COSI representative to committee
 
 Rafael Najmanovich, University of Montreal
+
+Douglas Pires, University of Melbourne
+
+Gonzalo Parra, Barcelona Supercomputer Centre
  
 ## COSI alternate representative to committee
 
-Douglas Pires, University of Melbourne
- 
-## COSI proceedings liaison
+Rafael Najmanovich, University of Montreal
 
 Douglas Pires, University of Melbourne
+
+Gonzalo Parra, Barcelona Supercomputer Centre
+
+## COSI proceedings liaison
+
+Rafael Najmanovich, University of Montreal
+
+Douglas Pires, University of Melbourne
+
+Gonzalo Parra, Barcelona Supercomputer Centre
 
 ## COSI track chair(s)
 
-Rafael Najmanovich, University of Montreal 
+Rafael Najmanovich, University of Montreal
 
-Douglas Pires, University of Melbourne 
+Douglas Pires, University of Melbourne
+
+1 Gonzalo Parra, Barcelona Supercomputer Centre
 
 ## ISCBacademy COSI Program Coordinator
 
@@ -36,6 +50,7 @@ Stephen Yi, The university of Texas at Austin
 |Name|Institution|Country|Position|
 |Rafael Najmanovich|University of Montreal|Canada|Co-Chair|
 |Douglas Pires|University of Melbourne|AU|Co-Chair|
+|Gonzalo Parra|Barcelona Supercomputer Centre|Spain|Co-Chair|
 |Alexey Porollo|Cincinnati Children's Hospital Medical Center|US|Track Editor|
 |Anna Marabotti|University of Salerno|Italy|Track Editor|
 |Ray Arjun|Indraprastha Institute of Information Technology (IIIT)|India|Track Editor
